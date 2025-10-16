@@ -74,6 +74,33 @@ Depending on how large the project is, you may want to outsource the questioning
 > that you have the necessary rights to the content and that the content you contribute may be
 > provided under the project license.
 
+---
+
+### AUTOMATED CONTRIBUTIONS (AI / LLM) POLICY
+
+#### AI Use
+- It is of everyone's best interest to **not** submit issues, pull requests or feature requests that are AI-generated.
+- All such requests will be clsoed and submitters will be blocked from the repository.
+
+#### You must...
+- Be able to understand and respond to questions relating to the issue or the fix you provide.
+- You *can* use an AI tool for proofreading, translating or understanding the issue's content.
+- You **cannot** use AI tools to generate the issue text, or the issue itself.
+
+#### Pull Requests
+- You should be able to explain every part of the code you have written/modified in your PR.
+- If you do not understand your PR, **do not** submit it. You cannot use an AI tool to generate code for you.
+
+The aim of this policy is to improve the work of maintainers and contributors. AI contributions waste their time and efforts, so please understand that such submissions are a waste of the effort they put into maintaining this project.
+
+Additionally, such AI-generated content impedes the legitimate issues and feature requests that would add more value to the project.
+
+Finally...
+**AI-generated code goes against this project's lisence as it cannot be released into the public domain, as you did not author it yourself.**
+
+---
+
+
 ### Reporting Bugs
 
 <!-- omit in toc -->
