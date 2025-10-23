@@ -96,7 +96,6 @@ The aim of this policy is to improve the work of maintainers and contributors. A
 Additionally, such AI-generated content impedes the legitimate issues and feature requests that would add more value to the project.
 
 Finally...
-**AI-generated code goes against this project's lisence as it cannot be released into the public domain, as you did not author it yourself.**
 
 ---
 
