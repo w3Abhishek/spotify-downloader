@@ -80,7 +80,7 @@ Depending on how large the project is, you may want to outsource the questioning
 
 #### AI Use
 - It is of everyone's best interest to **not** submit issues, pull requests or feature requests that are AI-generated.
-- All such requests will be clsoed and submitters will be blocked from the repository.
+- All such requests will be closed and submitters will be blocked from the repository.
 
 #### You must...
 - Be able to understand and respond to questions relating to the issue or the fix you provide.
